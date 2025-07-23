@@ -10,7 +10,9 @@ If you're into problem solving, Python, or just like watching someone struggle i
 This repo is split by platform — clean and simple:
 leetcode-hackerrank-python/
 ├── leetcode/ ← All my LeetCode solutions go here
+
 ├── hackerrank/ ← All my HackerRank solutions go here
+
 └── README.md 
 
 Each file inside those folders is a solution to a problem. I name them based on the actual problem name (with numbers if available), so it’s easy to search.
