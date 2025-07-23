@@ -8,7 +8,9 @@ If you're into problem solving, Python, or just like watching someone struggle i
  What's Inside?
 
 This repo is split by platform — clean and simple:
+
 leetcode-hackerrank-python/
+
 ├── leetcode/ ← All my LeetCode solutions go here
 
 ├── hackerrank/ ← All my HackerRank solutions go here
